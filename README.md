@@ -1,2 +1,2 @@
 # Jumon_chibi_game
-Repo for a very old game of mine from the early 2015.
+Repo placeholder for this ol' game of mine.
